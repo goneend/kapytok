@@ -6,5 +6,6 @@ public class Main {
 	System.out.println("test 1");
 	hkhb n = new hkhb();
 	n.out();
+	System.out.println("Kapytok");
     }
 }
